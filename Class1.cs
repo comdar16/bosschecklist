@@ -24,7 +24,7 @@ namespace bosschecklist
 
 		public override string Author
 		{
-			get { return "comdar"; }
+			get { return "Updated by comdar"; }
 		}
 
 		public override string Description
